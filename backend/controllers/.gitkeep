@@ -1,0 +1,8 @@
+/**
+ * Controllers will be implemented in later phases.
+ * Expected modules:
+ *   authController, userController, sellerController, productController,
+ *   categoryController, cartController, orderController, paymentController,
+ *   reviewController, messageController, notificationController, adminController
+ */
+module.exports = {};

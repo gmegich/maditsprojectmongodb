@@ -1,0 +1,5 @@
+/**
+ * Express route modules will be registered in later phases.
+ * See server.js for the planned /api/* mount points.
+ */
+module.exports = {};

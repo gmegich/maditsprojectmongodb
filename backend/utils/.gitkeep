@@ -1,0 +1,4 @@
+/**
+ * Shared helpers (generateToken, generateOrderNumber) — Phase 3+.
+ */
+module.exports = {};
